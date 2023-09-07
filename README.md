@@ -10,16 +10,13 @@
 ## 简介
 ### 放在前面...
 - <b>游戏原作者</b>
-  - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/9096/avatar.png?width=400" width="24">  <font color=purple>Vrelnir</font>
+  - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/9096/avatar.png?width=400" width="24">  $\color{purple} {Vrelnir}$
 - <b>当前模组开发团队</b>
   - 成员:
-    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25293/avatar.png?width=400" width="24"> 
- <font color=green>Chylli, 当前模组负责人</font>
-    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/44574/avatar.png?width=400" width="24"> 
- <font color=yellow>J-Side</font>
-    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25929/avatar.png?width=400" width="24"> 
- <font color=blue>FrostDragonZ | Revenant, 同时也是 `Dragon Mod` 的负责人</font>
-    - <font color=yellow>Frostberg</font>
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25293/avatar.png?width=400" width="24"> $\color{green} {Chylli, 当前模组负责人}$
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/44574/avatar.png?width=400" width="24"> $\color{Gold} {J-Side}$
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25929/avatar.png?width=400" width="24"> $\color{blue} {FrostDragonZ | Revenant, 同时也是 Dragon Mod 的负责人}$
+    - $\color{Gold} {Frostberg}$
   - [英文模组维基][wiki-en]
   - [模组 Discord][discord]
   - [模组源码仓库][gitgud]
