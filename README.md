@@ -1,22 +1,20 @@
 # Degrees of Lewdity World Expansion 中文本地化发布库
 
 ---
-![Static Badge](https://img.shields.io/badge/Author-Chylli-orange?link=https%3A%2F%2Fvrelnir.blogspot.com%2F)
+![Static Badge](https://img.shields.io/badge/Author-Chylli-green?link=https%3A%2F%2Fvrelnir.blogspot.com%2F)
 ![GitHub release (with filter)](https://img.shields.io/github/v/release/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization?link=https%3A%2F%2Fgithub.com%2FEltirosto%2FDegrees-of-Lewdity-World-Expansion-Chinese-Localization%2Freleases%2Flatest)
 ![GitHub all releases](https://img.shields.io/github/downloads/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/total?link=https%3A%2F%2Fgithub.com%2FEltirosto%2FDegrees-of-Lewdity-World-Expansion-Chinese-Localization%2Freleases%2Flatest)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization)
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7800082e-5667-4035-bb58-cfda7d6e1e08/deploy-status)](https://app.netlify.com/sites/graceful-starlight-97b8ae/deploys)
-
 ## 简介
 ### 放在前面...
 - <b>当前模组开发团队</b>
   - 成员:
-    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25293/avatar.png?width=400" width="24"><span class="green">Chylli, 当前模组负责人</span>
-    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/44574/avatar.png?width=400" width="24"><span class="yellow">J-Side</span>
-    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25929/avatar.png?width=400" width="24"><span class="blue">FrostDragonZ | Revenant, 同时也是 `Dragon Mod` 的负责人</span>
-    - <span class="yellow">Frostberg</span>
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25293/avatar.png?width=400" width="24"><font color=green>Chylli, 当前模组负责人</font>
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/44574/avatar.png?width=400" width="24"><font color=yellow>J-Side</font>
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25929/avatar.png?width=400" width="24"><font color=blue>FrostDragonZ | Revenant, 同时也是 `Dragon Mod` 的负责人</font>
+    - <font color=yellow>Frostberg</font>
   - [英文模组维基][wiki-en]
   - [模组 Discord][discord]
   - [模组源码仓库][gitgud]
@@ -37,8 +35,6 @@
 
 ### 关于模组发布
 如无特殊情况，本仓库每周五晚上九点将会定期发布新版本，下载请见右侧的 `releases`
-
-游戏发布时会自动部署到 [Github Pages][ghpages]，并使用 [Netlify][netlify] 镜像加速。
 
 发布文件格式：
 - `dol-{原游戏版本号}-chs-{原游戏汉化版本号}-we-chs-{世扩汉化版本号}`
@@ -91,5 +87,3 @@
 [gitgud]: https://gitgud.io/Vrelnir/degrees-of-lewdity/-/tree/master/
 [discord]: https://discord.gg/4APXgn4
 [github]: https://github.com/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/
-[ghpages]: https://eltirosto.github.io/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/
-[netlify]: https://graceful-starlight-97b8ae.netlify.app/
