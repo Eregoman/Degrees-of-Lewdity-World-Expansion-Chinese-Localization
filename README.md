@@ -9,18 +9,24 @@
 
 ## 简介
 ### 放在前面...
+- <b>游戏原作者</b>
+  - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/9096/avatar.png?width=400" width="24">  <font color=purple>Vrelnir</font>
 - <b>当前模组开发团队</b>
   - 成员:
-    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25293/avatar.png?width=400" width="24"><font color=green>Chylli, 当前模组负责人</font>
-    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/44574/avatar.png?width=400" width="24"><font color=yellow>J-Side</font>
-    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25929/avatar.png?width=400" width="24"><font color=blue>FrostDragonZ | Revenant, 同时也是 `Dragon Mod` 的负责人</font>
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25293/avatar.png?width=400" width="24"> 
+ <font color=green>Chylli, 当前模组负责人</font>
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/44574/avatar.png?width=400" width="24"> 
+ <font color=yellow>J-Side</font>
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25929/avatar.png?width=400" width="24"> 
+ <font color=blue>FrostDragonZ | Revenant, 同时也是 `Dragon Mod` 的负责人</font>
     - <font color=yellow>Frostberg</font>
   - [英文模组维基][wiki-en]
   - [模组 Discord][discord]
   - [模组源码仓库][gitgud]
 
 ### 关于本仓库
--> [本仓库地址][github] <- 
+-> [原版游戏汉化仓库地址][github-dol] <-
+-> [本仓库地址][github-we] <- 
 
 本仓库将会不定期放出模组的简体中文本地化版本，仅供交流学习，请于下载后 24 小时内删除。仓库本身不含模组相关内容，仅作为发布地址。**对在其它平台下载的汉化模组文件不保证安全性，请谨慎下载。**
 
@@ -86,4 +92,5 @@
 [wiki-en]: https://degreesoflewdity.miraheze.org/wiki
 [gitgud]: https://gitgud.io/Vrelnir/degrees-of-lewdity/-/tree/master/
 [discord]: https://discord.gg/4APXgn4
-[github]: https://github.com/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/
+[github-dol]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/
+[github-we]: https://github.com/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/
