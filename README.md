@@ -88,7 +88,7 @@
 
 [blog]: https://vrelnir.blogspot.com/
 [wiki-en]: https://degreesoflewdity.miraheze.org/wiki
-[gitgud]: https://gitgud.io/Vrelnir/degrees-of-lewdity/-/tree/master/
+[gitgud]: https://gitgud.io/Wub/degrees-of-lewdity-world-expansion
 [discord]: https://discord.gg/4APXgn4
 [github-dol]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/
 [github-we]: https://github.com/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/
