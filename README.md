@@ -40,6 +40,8 @@
 ### 关于模组发布
 如无特殊情况，本仓库每周五晚上九点将会定期发布新版本，下载请见右侧的 `releases`
 
+游戏发布时会自动部署到 [GitHub Pages][ghpages]，并使用 [Netlify][netlify] 镜像加速。
+
 发布文件格式：
 - `dol-{原游戏版本号}-we-chs-{世扩汉化版本号}`
 
@@ -83,6 +85,11 @@
 > 2023.09.08
 > - 发布 `dol-0.4.1.7-we-chs-alpha1.0.0` 版
 >   - 初步完成已提取文本的汉化，尚有部分文本未提取，汉化润色不充分
+>
+>
+> 2023.09.10
+> - 将汉化版同步部署为可在线游玩 / 作为应用安装到本地的 PWA [@issue/22][issue22]
+>   - [GitHub Pages][ghpages] / [Netlify][netlify]
 
 </details>
 
@@ -92,3 +99,5 @@
 [discord]: https://discord.gg/4APXgn4
 [github-dol]: https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization/
 [github-we]: https://github.com/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/
+[ghpages]: https://eltirosto.github.io/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/
+[netlify]: https://heartfelt-douhua-6a754d.netlify.app
