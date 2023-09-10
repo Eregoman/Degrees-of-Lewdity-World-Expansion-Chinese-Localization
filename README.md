@@ -6,6 +6,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/total?link=https%3A%2F%2Fgithub.com%2FEltirosto%2FDegrees-of-Lewdity-World-Expansion-Chinese-Localization%2Freleases%2Flatest)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/810b0eb0-462b-47ca-a1bc-aa7e245125aa/deploy-status)](https://app.netlify.com/sites/heartfelt-douhua-6a754d/deploys)
 
 ## 简介
 ### 放在前面...
