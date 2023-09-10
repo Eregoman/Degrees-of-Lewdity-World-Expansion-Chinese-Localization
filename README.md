@@ -1,5 +1,47 @@
 # Degrees of Lewdity World Expansion 中文本地化发布库
 
+![Static Badge](https://img.shields.io/badge/Author-Chylli-green?link=https%3A%2F%2Fvrelnir.blogspot.com%2F)
+![GitHub release (with filter)](https://img.shields.io/github/v/release/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization?link=https%3A%2F%2Fgithub.com%2FEltirosto%2FDegrees-of-Lewdity-World-Expansion-Chinese-Localization%2Freleases%2Flatest)
+![GitHub all releases](https://img.shields.io/github/downloads/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization/total?link=https%3A%2F%2Fgithub.com%2FEltirosto%2FDegrees-of-Lewdity-World-Expansion-Chinese-Localization%2Freleases%2Flatest)
+![GitHub Repo stars](https://img.shields.io/github/stars/Eltirosto/Degrees-of-Lewdity-World-Expansion-Chinese-Localization)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/810b0eb0-462b-47ca-a1bc-aa7e245125aa/deploy-status)](https://app.netlify.com/sites/heartfelt-douhua-6a754d/deploys)
+
+## 简介
+### 放在前面...
+- <b>游戏原作者</b>
+  - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/9096/avatar.png?width=400" width="24">  $\color{purple} {Vrelnir}$
+- <b>当前模组开发团队</b>
+  - 成员:
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25293/avatar.png?width=400" width="24"> $\color{green} {Chylli, 当前模组负责人}$
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/44574/avatar.png?width=400" width="24"> $\color{Gold} {J-Side}$
+    - <img decoding="async" src="https://gitgud.io/uploads/-/system/user/avatar/25929/avatar.png?width=400" width="24"> $\color{blue} {FrostDragonZ | Revenant, 同时也是 Dragon Mod 的负责人}$
+    - $\color{Gold} {Frostberg}$
+  - [英文模组维基][wiki-en]
+  - [模组 Discord][discord]
+  - [模组源码仓库][gitgud]
+
+### 关于本仓库
+-> [原版游戏汉化仓库地址][github-dol] <-
+
+-> [本仓库地址][github-we] <- 
+
+本仓库将会不定期放出模组的简体中文本地化版本，仅供交流学习，请于下载后 24 小时内删除。仓库本身不含模组相关内容，仅作为发布地址。**对在其它平台下载的汉化模组文件不保证安全性，请谨慎下载。**
+
+游戏本体及模组完全免费游玩，严禁将中文本地化版本用作商业盈利用途或公开大肆传播，对于商业盈利或公开传播导致的可能法律后果完全由使用者自行承担，与汉化成员无关。允许在小范围个人之间传播，传播时请附上原作者的相关信息。
+
+**如在游玩过程中遇到任何问题，或对汉化文本有建议，请发布 issue 反馈，反馈时请附上出现问题时的`截图 + 游戏存档文件 / 游戏存档代码`，在其它平台反馈问题可能得不到回应。**
+
+**请注意，本仓库仅解决由于世界扩展模组汉化版本导致的问题**
+- **如果问题在原版汉化版本能复现，请去原版汉化版仓库反映；**
+- **如果问题在世界扩展模组英文版能复现，请去世界扩展模组制作团队的 Discord 反映；**
+- **如果问题在原版英文版能复现，请去原版游戏官方 Discord 反映。**
+
+### 关于模组发布
+如无特殊情况，本仓库每周五晚上九点将会定期发布新版本，下载请见右侧的 `releases`
+
+游戏发布时会自动部署到 [GitHub Pages][ghpages]，并使用 [Netlify][netlify] 镜像加速。
+
 发布文件格式：
 - `dol-{原游戏版本号}-we-chs-{世扩汉化版本号}`
 
